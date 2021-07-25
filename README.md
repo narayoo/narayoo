@@ -19,7 +19,7 @@
 
  <br>
   
-# 🛠 Tech Stack(기술 스택)
+# 🛠 Stack 
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 
 
@@ -35,7 +35,7 @@
 
 
 
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="mongoose" src ="https://img.shields.io/badge/-mongoose-%23B43104.svg?style=for-the-badge&logo=&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="mongoose" src ="https://img.shields.io/badge/-mongoose-%23B43104.svg?style=for-the-badge&logo=&logoColor=white"/>
 
 
 
