@@ -52,6 +52,17 @@
 
 
 
+
+***
+
+
+### How to reach me? 🤔
+
+- 📮  **Nara's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:younara3106@gmail.com)](mailto:younara3106@gmail.com)
+
+- 📒  **Nara's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://velog.io/@younara)](https://velog.io/@younara)
+
+
 <!--
 **narayoo/narayoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
